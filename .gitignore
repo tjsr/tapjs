@@ -18,3 +18,4 @@
 
 # Local Netlify folder
 .netlify
+/src/run/XXX
